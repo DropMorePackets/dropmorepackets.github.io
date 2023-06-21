@@ -1,7 +1,7 @@
 ---
-title: Hello World
+title: Dropmorepackets.io
 type: docs
 ---
 
-# Hello World
+# Some guides on how to filter violent traffic
 
